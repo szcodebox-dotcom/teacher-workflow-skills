@@ -1,0 +1,16 @@
+{
+  "final_archive": "teacher-workflow-expert-v1.0.0.zip",
+  "sha256": "3672f43cc4b398e1185a303bd16497f2637aeebf7cd0033fb102b4e87f66f46a",
+  "final_integrity": {
+    "passed": true,
+    "expert": "teacher-workflow-expert",
+    "version": "1.0.0",
+    "skills": 12,
+    "verified_files": 66,
+    "errors": []
+  },
+  "official_validator_exit": 0,
+  "official_validator_passed": true,
+  "payload_files": 67,
+  "actual_user_installation_performed": false
+}

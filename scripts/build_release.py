@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def release_files(root):
     catalog = json.loads((root / 'catalog.json').read_text(encoding='utf-8'))
     top = ['README.md', 'LICENSE', 'CHANGELOG.md', 'catalog.json', 'requirements-dev.txt', '.gitignore']
-    folders = ['docs', 'scripts', 'tests', '.github'] + [s['path'] for s in catalog['skills']]
+    folders = ['docs', 'scripts', 'tests', '.github', 'workbuddy'] + [s['path'] for s in catalog['skills']]
     files = [root / p for p in top]
     files += [p for folder in folders for p in (root / folder).rglob('*') if p.is_file()]
     return sorted({p for p in files if p.is_file() and '__pycache__' not in p.parts and p.suffix not in {'.pyc', '.zip'} and p.name != '.DS_Store'})

@@ -8,6 +8,14 @@
 
 [下载完整发布包](https://github.com/szcodebox-dotcom/teacher-workflow-skills/releases/tag/v2.0.0) · [审核与验证记录](docs/AUDIT.md) · [安装指南](docs/QUICKSTART.md)
 
+## WorkBuddy：一个教师专家，内置十二套技能
+
+新增 **教师工作流专家包 1.0.0**：一个专家入口按需加载十二套技能，保留完整教学示例、四个可运行脚本，并附36条自然语言提示词、Windows/macOS安装与风险测试。
+
+[下载 WorkBuddy 专家 ZIP](https://github.com/szcodebox-dotcom/teacher-workflow-skills/releases/download/workbuddy-v1.0.0/teacher-workflow-expert-v1.0.0.zip) · [WorkBuddy 安装方法](docs/WORKBUDDY.md)
+
+解压后在 WorkBuddy「我的专家 → 创建专家」对话中提供完整文件夹，发送包内 `安装提示词.txt`；内置管理器完成复制、校验和注册。普通技能上传入口不能代替专家注册。本包采用官方专家插件结构，安装器不覆盖同名包；更新时保留备份与失败回滚。
+
 ## 十二套能做什么
 
 | # | 工作流 | 输入 → 产物 | 技能包摘要 |

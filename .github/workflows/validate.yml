@@ -15,3 +15,7 @@ jobs:
       - run: python scripts/validate_repo.py
       - run: python -m unittest discover -s tests -v
       - run: python scripts/build_release.py
+      - run: python scripts/build_workbuddy.py
+      - run: python dist/workbuddy/teacher-workflow-expert/scripts/verify_package.py
+      - run: python -B dist/workbuddy/teacher-workflow-expert/scripts/test_install_expert.py
+      - run: python dist/workbuddy/teacher-workflow-expert/scripts/run_examples.py --output-dir /tmp/workbuddy-examples

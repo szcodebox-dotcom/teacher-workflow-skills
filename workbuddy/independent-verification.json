@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-14",
+  "review_scope": "independent extraction of initial v1.0.0 archive; all execution used extracted package resources and isolated temporary configuration",
+  "archive": {
+    "file": "dist/workbuddy/teacher-workflow-expert-v1.0.0.zip",
+    "sha256": "65955ff3731269569b1479c77fb75ad9b94398435015324effd4633f80059c10",
+    "entries": 66,
+    "crc_check_passed": true
+  },
+  "self_validation": {
+    "exit_code": 0,
+    "skills": 12,
+    "verified_files": 65,
+    "passed": true
+  },
+  "installer_tests": {
+    "exit_code": 0,
+    "tests": 14,
+    "passed": true,
+    "registrar": "explicit temporary test stub, not native registration"
+  },
+  "official_validation": {
+    "exit_code": 0,
+    "valid": true,
+    "warnings": 0,
+    "errors": 0,
+    "validator_sha256": "6e85c716af94d6ee2ffc86a24a7230d15cd675a0fbaaf45a8980fd51d9c1c6fd",
+    "original_validator_used": true,
+    "isolated_config": true,
+    "registration_executed": false
+  },
+  "independent_metadata_and_integrity": {
+    "passed": true,
+    "errors": [],
+    "manifest": {
+      "algorithm": "sha256",
+      "verified_files": 65,
+      "all_sha256_lengths": 64,
+      "coverage": "all payload files except MANIFEST.json itself",
+      "unlisted_files": [
+        "MANIFEST.json"
+      ]
+    },
+    "skill_yaml": [
+      {
+        "id": "teacher-blueprint-exam",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-class-action-plan",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-communication-studio",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-exam-builder",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-learning-insights",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-lesson-pack",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-lesson-plan",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-mistake-coach",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-slide-deck",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-source-question-bank",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-workflow-maker",
+        "version": "2.0.0",
+        "valid_metadata": true
+      },
+      {
+        "id": "teacher-workflow-router",
+        "version": "2.0.0",
+        "valid_metadata": true
+      }
+    ],
+    "agent_yaml_valid": true,
+    "windows_commands_present": [
+      "INSTALL.md",
+      "skills/teacher-slide-deck/SKILL.md",
+      "skills/teacher-slide-deck/references/worked-example.md"
+    ],
+    "workflow_maker_platform_adapted": true
+  },
+  "examples": {
+    "synthetic_examples": true,
+    "results": [
+      {
+        "skill": "teacher-exam-builder",
+        "executed": true,
+        "audit": {
+          "ok": true,
+          "errors": [],
+          "checks": {
+            "question_count": 3,
+            "question_points": "20",
+            "blueprint_points": "20",
+            "cell_points": {
+              "B1": "4",
+              "B2": "6",
+              "B3": "10"
+            }
+          },
+          "limits": "仅检查结构、声明字段和分值关系；不证明答案正确、评分互斥、难度准确或来源权限真实。"
+        }
+      },
+      {
+        "skill": "teacher-blueprint-exam",
+        "executed": true,
+        "audit": {
+          "ok": true,
+          "errors": [],
+          "checks": {
+            "question_count": 3,
+            "question_points": "20",
+            "blueprint_points": "20",
+            "cell_points": {
+              "B1": "4",
+              "B2": "6",
+              "B3": "10"
+            }
+          },
+          "limits": "仅检查结构、声明字段和分值关系；不证明答案正确、评分互斥、难度准确或来源权限真实。"
+        }
+      },
+      {
+        "skill": "teacher-learning-insights",
+        "executed": true,
+        "files": [
+          "learning/report.json",
+          "learning/report.md"
+        ]
+      },
+      {
+        "skill": "teacher-slide-deck",
+        "executed": true,
+        "file": "lesson.pptx",
+        "slides": 8,
+        "notes": 8,
+        "editable_tables": 1,
+        "visual_rendering_checked": false
+      }
+    ]
+  },
+  "avatar": {
+    "width": 512,
+    "height": 512,
+    "format": "PNG",
+    "visually_checked": true,
+    "observations": "Readable original book and pencil symbol; no cropped lettering; central composition fits square avatar."
+  },
+  "isolation": {
+    "writes_to_real_workbuddy_config": false,
+    "real_session_used": false,
+    "package_source_modified": false
+  },
+  "limits": [
+    "No real WorkBuddy expert registration or session invocation performed.",
+    "PPTX structure was opened and verified; all-page visual rendering was not performed.",
+    "Examples and installer fixtures are synthetic; checks do not establish classroom effect."
+  ],
+  "passed": true
+}
