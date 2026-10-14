@@ -1,0 +1,61 @@
+{
+  "synthetic_only": true,
+  "network_used": false,
+  "external_publication": false,
+  "input_rows": 8,
+  "valid_rows": 5,
+  "blank_rows": 3,
+  "complete_students": 2,
+  "partial_students": 1,
+  "unscored_students": 1,
+  "complete_mean_score": 7.5,
+  "pass_rate_denominator": 2,
+  "excellent_rate_denominator": 2,
+  "q1_fraction": "6/8",
+  "q2_fraction": "13/18",
+  "weighted_fraction": "19/26",
+  "new_action_questions": 18,
+  "action_question_rubrics_complete": true,
+  "retest_point_template_rows": 240,
+  "lesson_minutes": 40,
+  "exam_structure_passed": true,
+  "independent_arithmetic_checked": true,
+  "failure_probes": [
+    {
+      "name": "duplicate-key",
+      "expected_exit": 2,
+      "report_exists": false
+    },
+    {
+      "name": "out-of-range",
+      "expected_exit": 2,
+      "report_exists": false
+    },
+    {
+      "name": "inconsistent-maximum",
+      "expected_exit": 2,
+      "report_exists": false
+    },
+    {
+      "name": "all-blank",
+      "expected_exit": 2,
+      "report_exists": false
+    },
+    {
+      "name": "valid-zero",
+      "expected_exit": 0,
+      "report_exists": true
+    },
+    {
+      "name": "no-complete-students",
+      "expected_exit": 0,
+      "report_exists": true
+    },
+    {
+      "name": "omitted-row",
+      "expected_exit": 0,
+      "report_exists": true
+    }
+  ],
+  "findings": []
+}

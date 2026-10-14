@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="680" viewBox="0 0 1600 680">
+<rect width="1600" height="680" fill="#F4F7F4"/>
+<text x="56" y="52" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="52" fill="#132B39">一节课，从输入到复测形成闭环</text>
+<rect x="56" y="180" width="350" height="212" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<text x="78" y="210" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#007E76">输入</text>
+<text x="78" y="276" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#132B39">课题 / 学情 / 材料</text>
+<text x="78" y="327" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">明确范围与已有证据</text>
+<path d="M408 286 L433 286 M420 277 L433 286 L420 295" fill="none" stroke="#007E76" stroke-width="5"/>
+<rect x="436" y="180" width="350" height="212" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<text x="458" y="210" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#007E76">备课</text>
+<text x="458" y="276" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#132B39">目标 / 活动 / 检测</text>
+<text x="458" y="327" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">教案、课件与学案对齐</text>
+<path d="M788 286 L813 286 M800 277 L813 286 L800 295" fill="none" stroke="#007E76" stroke-width="5"/>
+<rect x="816" y="180" width="350" height="212" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<text x="838" y="210" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#007E76">教学与测验</text>
+<text x="838" y="276" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#132B39">原创试题 / 评分</text>
+<text x="838" y="327" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">保留课堂作答证据</text>
+<path d="M1168 286 L1193 286 M1180 277 L1193 286 L1180 295" fill="none" stroke="#007E76" stroke-width="5"/>
+<rect x="1196" y="180" width="350" height="212" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<text x="1218" y="210" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#007E76">分析与跟进</text>
+<text x="1218" y="276" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#132B39">知识点表现 / 练习</text>
+<text x="1218" y="327" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">把数据转成教学安排</text>
+<rect x="56" y="448" width="1488" height="155" rx="20" fill="#DCEFEB" stroke="#DCEFEB"/>
+<text x="84" y="478" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32" fill="#007E76">复测 → 更新教学安排</text>
+<text x="84" y="534" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="26" fill="#132B39">使用同一知识点与明确评分口径，记录有效作答数；证据不足时说明限制，不猜测原因。</text>
+</svg>

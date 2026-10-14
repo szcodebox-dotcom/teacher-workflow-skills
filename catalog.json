@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "version": "2.0.0",
+  "skills": [
+    {
+      "id": "teacher-lesson-pack",
+      "legacy_id": "lesson-pack",
+      "title": "成套备课",
+      "category": "备课",
+      "summary": "一份输入生成教案、逐页课件内容、学案、练习和作业。",
+      "path": "teacher-lesson-pack",
+      "entrypoint": "teacher-lesson-pack/SKILL.md"
+    },
+    {
+      "id": "teacher-lesson-plan",
+      "legacy_id": "k12-lesson-design",
+      "title": "教案设计",
+      "category": "备课",
+      "summary": "把目标、课堂活动和检测证据对齐，输出可授课教案。",
+      "path": "teacher-lesson-plan",
+      "entrypoint": "teacher-lesson-plan/SKILL.md"
+    },
+    {
+      "id": "teacher-slide-deck",
+      "legacy_id": "office-kejian",
+      "title": "可编辑课件",
+      "category": "备课",
+      "summary": "将教学内容制作为含讲者备注的可编辑 PPTX。",
+      "path": "teacher-slide-deck",
+      "entrypoint": "teacher-slide-deck/SKILL.md"
+    },
+    {
+      "id": "teacher-exam-builder",
+      "legacy_id": "exam-generator",
+      "title": "原创试卷",
+      "category": "命题",
+      "summary": "按考试范围生成原创题、答案和逐步评分规则。",
+      "path": "teacher-exam-builder",
+      "entrypoint": "teacher-exam-builder/SKILL.md"
+    },
+    {
+      "id": "teacher-blueprint-exam",
+      "legacy_id": "chuti-zujuan",
+      "title": "细目表组卷",
+      "category": "命题",
+      "summary": "按知识点与能力矩阵组卷并核对题目和分值覆盖。",
+      "path": "teacher-blueprint-exam",
+      "entrypoint": "teacher-blueprint-exam/SKILL.md"
+    },
+    {
+      "id": "teacher-source-question-bank",
+      "legacy_id": "tizhuang-question-bank",
+      "title": "有据题库",
+      "category": "命题",
+      "summary": "从获授权材料抽取题目，保留来源、页码和核验状态。",
+      "path": "teacher-source-question-bank",
+      "entrypoint": "teacher-source-question-bank/SKILL.md"
+    },
+    {
+      "id": "teacher-mistake-coach",
+      "legacy_id": "cuoti-fast",
+      "title": "错题订正",
+      "category": "学情",
+      "summary": "保留识别证据，完成错题归类、订正、变式和复测。",
+      "path": "teacher-mistake-coach",
+      "entrypoint": "teacher-mistake-coach/SKILL.md"
+    },
+    {
+      "id": "teacher-learning-insights",
+      "legacy_id": "xueqing-analysis",
+      "title": "学情分析",
+      "category": "学情",
+      "summary": "统一得分口径，输出知识点表现、数据限制和复测建议。",
+      "path": "teacher-learning-insights",
+      "entrypoint": "teacher-learning-insights/SKILL.md"
+    },
+    {
+      "id": "teacher-class-action-plan",
+      "legacy_id": "class-analysis-junior",
+      "title": "班级跟进",
+      "category": "学情",
+      "summary": "将测验证据转成讲评、弹性练习和两周跟进安排。",
+      "path": "teacher-class-action-plan",
+      "entrypoint": "teacher-class-action-plan/SKILL.md"
+    },
+    {
+      "id": "teacher-communication-studio",
+      "legacy_id": "yureka-lab-edu",
+      "title": "教学沟通",
+      "category": "教研",
+      "summary": "根据真实证据形成家长会稿、教研材料与学生评语。",
+      "path": "teacher-communication-studio",
+      "entrypoint": "teacher-communication-studio/SKILL.md"
+    },
+    {
+      "id": "teacher-workflow-router",
+      "legacy_id": "find-skills",
+      "title": "工作流导航",
+      "category": "工具",
+      "summary": "根据任务与现有材料匹配这十二套工作流并说明交接。",
+      "path": "teacher-workflow-router",
+      "entrypoint": "teacher-workflow-router/SKILL.md"
+    },
+    {
+      "id": "teacher-workflow-maker",
+      "legacy_id": "skill-creator",
+      "title": "工作流封装",
+      "category": "工具",
+      "summary": "把可复用教学方法写成有输入输出和验证案例的技能包。",
+      "path": "teacher-workflow-maker",
+      "entrypoint": "teacher-workflow-maker/SKILL.md"
+    }
+  ]
+}

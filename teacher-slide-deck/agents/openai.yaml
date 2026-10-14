@@ -1,0 +1,6 @@
+interface:
+  display_name: "可编辑课件"
+  short_description: "把教学内容生成为可编辑课件，配齐讲者备注、教师答案和内容源文件"
+  default_prompt: "用 $teacher-slide-deck 根据我的教学内容生成可编辑 PPTX 和完整 JSON，每页附讲者备注并验证交付文件。"
+policy:
+  allow_implicit_invocation: true

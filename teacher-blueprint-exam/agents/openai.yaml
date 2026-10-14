@@ -1,0 +1,4 @@
+interface:
+  display_name: "细目表组卷"
+  short_description: "按知识点与能力细目表组卷，逐题核对分值分配和目标覆盖"
+  default_prompt: "使用 $teacher-blueprint-exam 按我提供的知识点与能力细目表组卷，附评分规则和覆盖差额。"

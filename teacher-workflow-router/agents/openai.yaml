@@ -1,0 +1,4 @@
+interface:
+  display_name: "工作流导航"
+  short_description: "精确匹配十二套教师工作流，区分相近任务并定义输入输出交接"
+  default_prompt: "使用 $teacher-workflow-router 为我的教学任务选择主工作流，给出顺序、输入缺口与交接契约。"

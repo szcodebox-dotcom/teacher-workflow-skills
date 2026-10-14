@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-14",
+  "scope": "SKILL.md prose after removing YAML, fenced/inline code, link destinations and punctuation",
+  "method": "SequenceMatcher; 24-character shared fragments are review signals",
+  "limitations": "Local baseline and intra-package comparison only; cannot prove global uniqueness or legal authorship",
+  "baseline_comparisons": [
+    {
+      "skill": "teacher-lesson-pack",
+      "legacy_id": "lesson-pack",
+      "baseline_sha256": "412060b8623c591ae5bc5cd498a719f9ab80b299eb1f2ca5462394e03ea9e2a2",
+      "longest_contiguous_characters": 6,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.0855
+    },
+    {
+      "skill": "teacher-lesson-plan",
+      "legacy_id": "k12-lesson-design",
+      "baseline_sha256": "5d868a2361177b17d67b5d0f3c3461b399a890d86746c4758379441dd69b63de",
+      "longest_contiguous_characters": 6,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.0823
+    },
+    {
+      "skill": "teacher-slide-deck",
+      "legacy_id": "office-kejian",
+      "baseline_sha256": "ea88be5da8a5338b539b338bebbdfa939a440d3f9b004bba5439715b8d3d9630",
+      "longest_contiguous_characters": 4,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.0932
+    },
+    {
+      "skill": "teacher-exam-builder",
+      "legacy_id": "exam-generator",
+      "baseline_sha256": "eb550c1853c45def22dc311f86f30d7ebd6ea428f8916f0f4246a67806764967",
+      "longest_contiguous_characters": 5,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.1169
+    },
+    {
+      "skill": "teacher-blueprint-exam",
+      "legacy_id": "chuti-zujuan",
+      "baseline_sha256": "1da61a43da91edf88b8def33606feab777cc99c5b681fd69083b832dc71bce42",
+      "longest_contiguous_characters": 4,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.0832
+    },
+    {
+      "skill": "teacher-source-question-bank",
+      "legacy_id": "tizhuang-question-bank",
+      "baseline_sha256": "bb71861ec80c548e229efe21f6f640128c996959615620ae5679678dacf15fbe",
+      "longest_contiguous_characters": 4,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.0489
+    },
+    {
+      "skill": "teacher-mistake-coach",
+      "legacy_id": "cuoti-fast",
+      "baseline_sha256": "b5f1678e97bf369eb0f875a00a39e7bb68e364249bf6bf896a0e18f031c0a2f9",
+      "longest_contiguous_characters": 4,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.0859
+    },
+    {
+      "skill": "teacher-learning-insights",
+      "legacy_id": "xueqing-analysis",
+      "baseline_sha256": "3039ee7fe851e0152a361ad537fb0c1cef8a9a1adb5c9a704a2bbb5ddc2b12bb",
+      "longest_contiguous_characters": 6,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.113
+    },
+    {
+      "skill": "teacher-class-action-plan",
+      "legacy_id": "class-analysis-junior",
+      "baseline_sha256": "160efb323bc9c43bbf97e148ca9c2219ff28ae70921e5b23085b24b45cd3c16a",
+      "longest_contiguous_characters": 4,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.1045
+    },
+    {
+      "skill": "teacher-communication-studio",
+      "legacy_id": "yureka-lab-edu",
+      "baseline_sha256": "afa79f0e7b23f6987cf86b87d6487caea02f95fa3d9055d57bb82d27c5aa63ca",
+      "longest_contiguous_characters": 4,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.0761
+    },
+    {
+      "skill": "teacher-workflow-router",
+      "legacy_id": "find-skills",
+      "baseline_sha256": "1ece9e8b0f9bef5b3e02364164570027387213d0edc36086cfc87fc23f73d22e",
+      "longest_contiguous_characters": 4,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.0481
+    },
+    {
+      "skill": "teacher-workflow-maker",
+      "legacy_id": "skill-creator",
+      "baseline_sha256": "d41454d10f33cb80781377e5a09f632e0332af3db0b9a440d5f4396b455fac3a",
+      "longest_contiguous_characters": 12,
+      "shared_fragments_24_plus": [],
+      "sequence_similarity": 0.0897
+    }
+  ],
+  "peer_review_signals": []
+}

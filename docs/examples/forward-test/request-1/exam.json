@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "title": "七年级一元一次方程10分钟小测",
+  "grade": "七年级",
+  "subject": "数学",
+  "duration_minutes": 10,
+  "total_points": 12,
+  "scope": [
+    "等式性质",
+    "解方程",
+    "生活应用"
+  ],
+  "blueprint": [
+    {
+      "id": "B1",
+      "knowledge_point": "等式性质",
+      "ability": "运用同加性质",
+      "type": "worked_response",
+      "difficulty": "easy",
+      "target_points": 3
+    },
+    {
+      "id": "B2",
+      "knowledge_point": "解方程",
+      "ability": "求解并检验",
+      "type": "worked_response",
+      "difficulty": "easy",
+      "target_points": 4
+    },
+    {
+      "id": "B3",
+      "knowledge_point": "生活应用",
+      "ability": "设元建模求解解释",
+      "type": "worked_response",
+      "difficulty": "medium",
+      "target_points": 5
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "worked_response",
+      "stem": "已知 5x−4=16。为使左边不含减去4这一项，在等式两边分别做什么同一运算？写出运算式、化简后的等式，并说明依据。无须继续求x。",
+      "points": 3,
+      "answer": "(5x−4)+4=16+4；5x=20。依据：等式两边同加一个数，所得等式仍相等。",
+      "rubric": [
+        {
+          "criterion": "完整写出两边同加4的运算式；只写“移项”而不展示两边操作不给这一分。",
+          "points": 1
+        },
+        {
+          "criterion": "化简得到5x=20。",
+          "points": 1
+        },
+        {
+          "criterion": "明确说明“等式两边同加一个数，所得等式仍相等”。",
+          "points": 1
+        }
+      ],
+      "knowledge_points": [
+        "等式性质"
+      ],
+      "ability": "运用同加性质",
+      "difficulty": "easy",
+      "source": {
+        "kind": "original",
+        "note": "本次独立编写的合成试跑题；未对应任何真实考试或课堂效果。"
+      },
+      "allocations": [
+        {
+          "cell_id": "B1",
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "Q2",
+      "type": "worked_response",
+      "stem": "解方程 3x−6=15，写出每步等价变形，并把所得解代入原方程检验。",
+      "points": 4,
+      "answer": "3x−6+6=15+6；3x=21；x=7。代入：3×7−6=15，与右边15相等。",
+      "rubric": [
+        {
+          "criterion": "展示两边同加6或等价的合法变形，运算两边都写清楚。",
+          "points": 1
+        },
+        {
+          "criterion": "得到3x=21。",
+          "points": 1
+        },
+        {
+          "criterion": "得到x=7。",
+          "points": 1
+        },
+        {
+          "criterion": "将7代入原方程并说明左右两边同为15。",
+          "points": 1
+        }
+      ],
+      "knowledge_points": [
+        "解方程"
+      ],
+      "ability": "求解并检验",
+      "difficulty": "easy",
+      "source": {
+        "kind": "original",
+        "note": "本次独立编写的合成试跑题；未对应任何真实考试或课堂效果。"
+      },
+      "allocations": [
+        {
+          "cell_id": "B2",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "id": "Q3",
+      "type": "worked_response",
+      "stem": "班级图书角买了2本同价知识手册和一包4元的标签纸，共付22元。每本知识手册多少元？请设未知数、列方程、求解，并解释结果。",
+      "points": 5,
+      "answer": "设每本知识手册x元。2x+4=22；2x=18；x=9。每本9元，2×9+4=22元，且价格为正。",
+      "rubric": [
+        {
+          "criterion": "设每本手册为x元，未知量含义、单位完整。",
+          "points": 1
+        },
+        {
+          "criterion": "列式时用2x表示两本手册总价。",
+          "points": 1
+        },
+        {
+          "criterion": "将标签纸4元与总付款22元正确纳入同一个等量关系2x+4=22或等价式。",
+          "points": 1
+        },
+        {
+          "criterion": "正确求解得到x=9。",
+          "points": 1
+        },
+        {
+          "criterion": "写“每本9元”，并以2×9+4=22核对结果符合题意。",
+          "points": 1
+        }
+      ],
+      "knowledge_points": [
+        "生活应用"
+      ],
+      "ability": "设元建模求解解释",
+      "difficulty": "medium",
+      "source": {
+        "kind": "original",
+        "note": "本次独立编写的合成试跑题；未对应任何真实考试或课堂效果。"
+      },
+      "allocations": [
+        {
+          "cell_id": "B3",
+          "points": 5
+        }
+      ]
+    }
+  ]
+}

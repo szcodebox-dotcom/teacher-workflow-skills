@@ -1,0 +1,6 @@
+interface:
+  display_name: "教案设计"
+  short_description: "把目标、学生动作、检测与时间排成可授课教案，配齐板书和答案"
+  default_prompt: "用 $teacher-lesson-plan 根据我的课程要求生成完整教案，明确目标、活动、证据、时间和订正复测安排。"
+policy:
+  allow_implicit_invocation: true

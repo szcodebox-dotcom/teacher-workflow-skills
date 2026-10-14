@@ -1,0 +1,9 @@
+exam_id,student_id,question_id,knowledge_point,score,max_score
+E01,S01,Q1,解方程,4,4
+E01,S01,Q2,建模,6,6
+E01,S02,Q1,解方程,2,4
+E01,S02,Q2,建模,3,6
+E01,S03,Q1,解方程,,4
+E01,S03,Q2,建模,4,6
+E01,S04,Q1,解方程,,4
+E01,S04,Q2,建模,,6

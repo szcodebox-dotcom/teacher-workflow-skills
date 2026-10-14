@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+<rect width="1600" height="1100" fill="#F4F7F4"/>
+<rect x="56" y="40" width="180" height="44" rx="12" fill="#007E76" stroke="#007E76"/>
+<text x="74" y="48" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="22" fill="#FFFFFF">教师工作流 2.0</text>
+<text x="56" y="118" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="56" fill="#132B39">12 套教学工作流，把任务变成成品</text>
+<text x="58" y="202" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="28" fill="#4F6573">备课 · 命题 · 学情 · 教研 · 工具   /   独立安装 · 示例完整 · 结果可核验</text>
+<rect x="56" y="284" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="76" y="302" width="65" height="34" rx="9" fill="#DCEFEB" stroke="#DCEFEB"/>
+<text x="86" y="307" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">备课</text>
+<text x="341" y="307" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">01</text>
+<text x="78" y="357" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">成套备课</text>
+<text x="78" y="412" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">教案 + 课件 + 学案</text>
+<text x="78" y="448" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">练习与作业一次配齐</text>
+<rect x="432" y="284" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="452" y="302" width="65" height="34" rx="9" fill="#DCEFEB" stroke="#DCEFEB"/>
+<text x="462" y="307" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">备课</text>
+<text x="717" y="307" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">02</text>
+<text x="454" y="357" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">教案设计</text>
+<text x="454" y="412" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">目标与课堂活动对齐</text>
+<text x="454" y="448" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">用检测证据检验目标</text>
+<rect x="808" y="284" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="828" y="302" width="65" height="34" rx="9" fill="#DCEFEB" stroke="#DCEFEB"/>
+<text x="838" y="307" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">备课</text>
+<text x="1093" y="307" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">03</text>
+<text x="830" y="357" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">可编辑课件</text>
+<text x="830" y="412" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">生成可编辑 PPTX</text>
+<text x="830" y="448" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">附逐页讲者备注</text>
+<rect x="1184" y="284" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="1204" y="302" width="65" height="34" rx="9" fill="#F7E9C9" stroke="#F7E9C9"/>
+<text x="1214" y="307" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">命题</text>
+<text x="1469" y="307" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">04</text>
+<text x="1206" y="357" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">原创试卷</text>
+<text x="1206" y="412" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">原创题 + 答案 + 评分</text>
+<text x="1206" y="448" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">按范围与难度出卷</text>
+<rect x="56" y="529" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="76" y="547" width="65" height="34" rx="9" fill="#F7E9C9" stroke="#F7E9C9"/>
+<text x="86" y="552" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">命题</text>
+<text x="341" y="552" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">05</text>
+<text x="78" y="602" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">细目表组卷</text>
+<text x="78" y="657" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">知识点 × 能力矩阵</text>
+<text x="78" y="693" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">核对分值和覆盖</text>
+<rect x="432" y="529" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="452" y="547" width="65" height="34" rx="9" fill="#F7E9C9" stroke="#F7E9C9"/>
+<text x="462" y="552" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">命题</text>
+<text x="717" y="552" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">06</text>
+<text x="454" y="602" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">有据题库</text>
+<text x="454" y="657" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">获授权材料提取题目</text>
+<text x="454" y="693" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">逐题保留来源证据</text>
+<rect x="808" y="529" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="828" y="547" width="65" height="34" rx="9" fill="#E1E8F7" stroke="#E1E8F7"/>
+<text x="838" y="552" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">学情</text>
+<text x="1093" y="552" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">07</text>
+<text x="830" y="602" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">错题订正</text>
+<text x="830" y="657" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">识别 → 订正 → 变式</text>
+<text x="830" y="693" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">复测检验掌握情况</text>
+<rect x="1184" y="529" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="1204" y="547" width="65" height="34" rx="9" fill="#E1E8F7" stroke="#E1E8F7"/>
+<text x="1214" y="552" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">学情</text>
+<text x="1469" y="552" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">08</text>
+<text x="1206" y="602" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">学情分析</text>
+<text x="1206" y="657" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">统一有效作答口径</text>
+<text x="1206" y="693" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">定位知识点薄弱处</text>
+<rect x="56" y="774" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="76" y="792" width="65" height="34" rx="9" fill="#E1E8F7" stroke="#E1E8F7"/>
+<text x="86" y="797" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">学情</text>
+<text x="341" y="797" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">09</text>
+<text x="78" y="847" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">班级跟进</text>
+<text x="78" y="902" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">讲评与弹性练习</text>
+<text x="78" y="938" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">安排两周跟进复测</text>
+<rect x="432" y="774" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="452" y="792" width="65" height="34" rx="9" fill="#F4E1D9" stroke="#F4E1D9"/>
+<text x="462" y="797" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">教研</text>
+<text x="717" y="797" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">10</text>
+<text x="454" y="847" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">教学沟通</text>
+<text x="454" y="902" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">家长会 · 教研 · 评语</text>
+<text x="454" y="938" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">依据实际课堂事例</text>
+<rect x="808" y="774" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="828" y="792" width="65" height="34" rx="9" fill="#E9E3F4" stroke="#E9E3F4"/>
+<text x="838" y="797" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">工具</text>
+<text x="1093" y="797" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">11</text>
+<text x="830" y="847" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">工作流导航</text>
+<text x="830" y="902" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">匹配这十二套流程</text>
+<text x="830" y="938" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">说明顺序和交接材料</text>
+<rect x="1184" y="774" width="352" height="218" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<rect x="1204" y="792" width="65" height="34" rx="9" fill="#E9E3F4" stroke="#E9E3F4"/>
+<text x="1214" y="797" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="20" fill="#132B39">工具</text>
+<text x="1469" y="797" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" fill="#4F6573">12</text>
+<text x="1206" y="847" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="35" fill="#132B39">工作流封装</text>
+<text x="1206" y="902" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">把教学方法封装成包</text>
+<text x="1206" y="938" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">用案例验证输入输出</text>
+<text x="58" y="1042" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="22" fill="#4F6573">Teacher Workflow Skills   ·   新版说明 / 示例 / 脚本 / 图示自主编写   ·   MIT</text>
+</svg>

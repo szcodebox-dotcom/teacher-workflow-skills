@@ -1,0 +1,4 @@
+interface:
+  display_name: "错题订正"
+  short_description: "依据可见作答整理错题，交付正确解法、原创巩固题与复测"
+  default_prompt: "使用 $teacher-mistake-coach 整理我提供的错题照片，交付证据、订正、原创巩固题和复测答案评分。"

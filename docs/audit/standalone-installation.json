@@ -1,0 +1,26 @@
+{
+  "installed_skills": 12,
+  "standalone_demo_checks": [
+    {
+      "skill": "teacher-exam-builder",
+      "exit_code": 0,
+      "passed": true
+    },
+    {
+      "skill": "teacher-blueprint-exam",
+      "exit_code": 0,
+      "passed": true
+    },
+    {
+      "skill": "teacher-learning-insights",
+      "exit_code": 0,
+      "passed": true
+    },
+    {
+      "skill": "teacher-slide-deck",
+      "exit_code": 0,
+      "passed": true
+    }
+  ],
+  "global_installation_changed": false
+}

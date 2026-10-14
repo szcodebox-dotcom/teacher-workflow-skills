@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "title": "一次方程：十分钟检验",
+  "grade": "七年级",
+  "subject": "数学",
+  "duration_minutes": 10,
+  "total_points": 20,
+  "scope": [
+    "等式变形",
+    "解一元一次方程",
+    "列方程解决问题"
+  ],
+  "blueprint": [
+    {
+      "id": "B1",
+      "knowledge_point": "等式变形",
+      "ability": "识别合法变形",
+      "type": "choice",
+      "difficulty": "easy",
+      "target_points": 4
+    },
+    {
+      "id": "B2",
+      "knowledge_point": "解一元一次方程",
+      "ability": "执行求解并检验",
+      "type": "worked_response",
+      "difficulty": "easy",
+      "target_points": 6
+    },
+    {
+      "id": "B3",
+      "knowledge_point": "列方程解决问题",
+      "ability": "建模并解释答案",
+      "type": "worked_response",
+      "difficulty": "medium",
+      "target_points": 10
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "choice",
+      "stem": "已知 3x+5=14，下列哪一步变形保持与原方程相同的解？",
+      "options": [
+        {
+          "label": "A",
+          "text": "3x=14+5"
+        },
+        {
+          "label": "B",
+          "text": "3x=14−5"
+        },
+        {
+          "label": "C",
+          "text": "x+5=14÷3"
+        },
+        {
+          "label": "D",
+          "text": "3x=14"
+        }
+      ],
+      "points": 4,
+      "answer": "B",
+      "rubric": [
+        {
+          "criterion": "只选 B 得 4 分；其他、复选或未选得 0 分。",
+          "points": 4
+        }
+      ],
+      "knowledge_points": [
+        "等式变形"
+      ],
+      "ability": "识别合法变形",
+      "difficulty": "easy",
+      "source": {
+        "kind": "original",
+        "note": "本技能包为验证工作流自行编写的合成题目；未对应任何真实考试。"
+      },
+      "allocations": [
+        {
+          "cell_id": "B1",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "id": "Q2",
+      "type": "worked_response",
+      "stem": "解方程 4x−7=13，并把解代入原方程检验。",
+      "points": 6,
+      "answer": "4x=20；x=5；检验左边 4×5−7=13，等于右边，故 x=5。",
+      "rubric": [
+        {
+          "criterion": "得到等价方程 4x=20，或等价的正确求解步骤。",
+          "points": 2
+        },
+        {
+          "criterion": "求得 x=5。",
+          "points": 2
+        },
+        {
+          "criterion": "代入原方程并说明左右两边同为 13。",
+          "points": 2
+        }
+      ],
+      "knowledge_points": [
+        "解一元一次方程"
+      ],
+      "ability": "执行求解并检验",
+      "difficulty": "easy",
+      "source": {
+        "kind": "original",
+        "note": "本技能包为验证工作流自行编写的合成题目；未对应任何真实考试。"
+      },
+      "allocations": [
+        {
+          "cell_id": "B2",
+          "points": 6
+        }
+      ]
+    },
+    {
+      "id": "Q3",
+      "type": "worked_response",
+      "stem": "校园种植组购买 3 包同价种子，另买一副 12 元的手套，共付款 48 元。每包种子多少元？请列方程求解，并说明结果符合题意。",
+      "points": 10,
+      "answer": "设每包种子 x 元。3x+12=48；3x=36；x=12。每包种子 12 元，3×12+12=48 元，符合总价且为正。",
+      "rubric": [
+        {
+          "criterion": "用 x 表示每包种子的价格，并标明单位为元。",
+          "points": 2
+        },
+        {
+          "criterion": "列出 3x+12=48 或等价方程。",
+          "points": 3
+        },
+        {
+          "criterion": "正确求解得到 x=12。",
+          "points": 3
+        },
+        {
+          "criterion": "写出每包 12 元，且以 3×12+12=48 检验题意。",
+          "points": 2
+        }
+      ],
+      "knowledge_points": [
+        "列方程解决问题"
+      ],
+      "ability": "建模并解释答案",
+      "difficulty": "medium",
+      "source": {
+        "kind": "original",
+        "note": "本技能包为验证工作流自行编写的合成题目；未对应任何真实考试。"
+      },
+      "allocations": [
+        {
+          "cell_id": "B3",
+          "points": 10
+        }
+      ]
+    }
+  ]
+}

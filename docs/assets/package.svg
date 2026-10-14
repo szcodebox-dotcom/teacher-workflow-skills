@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620">
+<rect width="1600" height="620" fill="#F4F7F4"/>
+<text x="56" y="48" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="52" fill="#132B39">每套技能的交付结构</text>
+<rect x="56" y="168" width="350" height="226" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<text x="76" y="195" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="34" fill="#007E76">SKILL.md</text>
+<text x="76" y="268" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="24" fill="#132B39">触发边界 · 输入处理</text>
+<text x="76" y="315" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">执行步骤 · 验收条件</text>
+<rect x="436" y="168" width="350" height="226" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<text x="456" y="195" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="34" fill="#007E76">SUMMARY.md</text>
+<text x="456" y="268" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="24" fill="#132B39">用途 · 输入 · 输出</text>
+<text x="456" y="315" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">依赖 · 调用示例</text>
+<rect x="816" y="168" width="350" height="226" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<text x="836" y="195" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="34" fill="#007E76">完整示例</text>
+<text x="836" y="268" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="24" fill="#132B39">原创教学内容</text>
+<text x="836" y="315" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">题目 · 答案 · 合成数据</text>
+<rect x="1196" y="168" width="350" height="226" rx="20" fill="#FFFFFF" stroke="#FFFFFF"/>
+<text x="1216" y="195" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="34" fill="#007E76">运行与检查</text>
+<text x="1216" y="268" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="24" fill="#132B39">必要脚本 · 行为测试</text>
+<text x="1216" y="315" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="23" fill="#4F6573">结构校验 · 审计记录</text>
+<rect x="56" y="452" width="1488" height="100" rx="20" fill="#132B39" stroke="#132B39"/>
+<text x="84" y="475" dominant-baseline="text-before-edge" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="28" fill="#FFFFFF">题库来源留证  ·  学生信息脱敏  ·  工具不足如实报告  ·  测试结论与教学效果分开</text>
+</svg>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "学情分析"
+  short_description: "核对小题成绩与缺失口径，生成可复核的知识点报告和复测建议"
+  default_prompt: "使用 $teacher-learning-insights 分析脱敏小题成绩，交付可核对分母的报告和复测建议。"

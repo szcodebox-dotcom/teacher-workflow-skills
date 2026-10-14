@@ -1,0 +1,6 @@
+interface:
+  display_name: "成套备课"
+  short_description: "一次配齐教案、课件内容、学案、课堂练习和作业并核对对应关系"
+  default_prompt: "用 $teacher-lesson-pack 根据我的年级、学科和课题生成可直接授课的完整五件套，并附教师答案和次课反馈安排。"
+policy:
+  allow_implicit_invocation: true

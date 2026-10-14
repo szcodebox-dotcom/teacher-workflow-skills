@@ -1,0 +1,6 @@
+interface:
+  display_name: "教学沟通"
+  short_description: "用事实或行动建议写家长会稿、教研材料和评语，明确执行与反馈"
+  default_prompt: "用 $teacher-communication-studio 根据我的真实材料写可直接使用的沟通成稿；没有证据的部分改为具体行动建议。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "有据题库"
+  short_description: "从获授权材料抽取完整试题，保留来源定位、答案与核验状态"
+  default_prompt: "使用 $teacher-source-question-bank 整理我上传的获授权试题，保留原页码和答案证据并单列待核验项。"

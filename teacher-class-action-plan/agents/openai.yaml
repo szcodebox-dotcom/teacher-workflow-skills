@@ -1,0 +1,4 @@
+interface:
+  display_name: "班级跟进"
+  short_description: "把测验证据转为讲评、可流动的练习入口和两周复测安排"
+  default_prompt: "使用 $teacher-class-action-plan 把学情证据转为讲评、弹性练习和两周复测计划。"

@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-14",
+  "tests_run": 54,
+  "failures": 0,
+  "errors": 0,
+  "passed": true,
+  "groups": {
+    "exam_audit": 21,
+    "learning_analysis": 19,
+    "slide_deck": 10,
+    "installation": 4
+  },
+  "scope": "Synthetic inputs, script behavior and artifact checks; no claim of real classroom effects"
+}

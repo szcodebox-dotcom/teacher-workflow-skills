@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "method_version": "2.0.0",
+  "thresholds": {
+    "pass_rate": 0.6,
+    "excellent_rate": 0.85
+  },
+  "quality": {
+    "input_rows": 8,
+    "scored_rows": 5,
+    "blank_score_rows": 3,
+    "validation": "全部数据通过必需列、唯一键、有限值、分值范围与题目一致性核对"
+  },
+  "exams": [
+    {
+      "exam_id": "E01",
+      "paper_max_score": 10.0,
+      "visible_questions": 2,
+      "visible_students": 4,
+      "complete_students": 2,
+      "partial_students": 1,
+      "unscored_students": 1,
+      "complete_student_statistics": {
+        "mean_score": 7.5,
+        "mean_rate": 0.75,
+        "minimum_score": 5.0,
+        "maximum_score": 10.0,
+        "pass_count": 1,
+        "pass_rate": 0.5,
+        "excellent_count": 1,
+        "excellent_rate": 0.5,
+        "denominator_students": 2
+      },
+      "scored_response_statistics": {
+        "earned_score": 19.0,
+        "scored_max_score": 26.0,
+        "score_rate": 0.730769,
+        "scored_responses": 5,
+        "scored_students": 3
+      },
+      "knowledge_points": [
+        {
+          "knowledge_point": "建模",
+          "earned_score": 13.0,
+          "scored_max_score": 18.0,
+          "score_rate": 0.722222,
+          "scored_responses": 3,
+          "scored_students": 3,
+          "visible_cohort_possible_score": 24.0,
+          "coverage_rate": 0.75
+        },
+        {
+          "knowledge_point": "解方程",
+          "earned_score": 6.0,
+          "scored_max_score": 8.0,
+          "score_rate": 0.75,
+          "scored_responses": 2,
+          "scored_students": 2,
+          "visible_cohort_possible_score": 16.0,
+          "coverage_rate": 0.5
+        }
+      ],
+      "questions": [
+        {
+          "question_id": "Q1",
+          "knowledge_point": "解方程",
+          "max_score": 4.0,
+          "earned_score": 6.0,
+          "scored_max_score": 8.0,
+          "score_rate": 0.75,
+          "scored_responses": 2,
+          "scored_students": 2,
+          "score_loss_rate": 0.25,
+          "full_credit_responses": 1,
+          "full_credit_rate": 0.5,
+          "zero_credit_responses": 0,
+          "zero_credit_rate": 0.0,
+          "unscored_students": 2
+        },
+        {
+          "question_id": "Q2",
+          "knowledge_point": "建模",
+          "max_score": 6.0,
+          "earned_score": 13.0,
+          "scored_max_score": 18.0,
+          "score_rate": 0.722222,
+          "scored_responses": 3,
+          "scored_students": 3,
+          "score_loss_rate": 0.277778,
+          "full_credit_responses": 1,
+          "full_credit_rate": 0.333333,
+          "zero_credit_responses": 0,
+          "zero_credit_rate": 0.0,
+          "unscored_students": 1
+        }
+      ],
+      "students": [
+        {
+          "student_id": "S01",
+          "record_status": "complete",
+          "earned_score": 10.0,
+          "scored_max_score": 10.0,
+          "scored_part_rate": 1.0,
+          "full_paper_rate": 1.0,
+          "coverage_rate": 1.0,
+          "scored_questions": 2,
+          "unscored_questions": 0,
+          "omitted_question_rows": 0
+        },
+        {
+          "student_id": "S02",
+          "record_status": "complete",
+          "earned_score": 5.0,
+          "scored_max_score": 10.0,
+          "scored_part_rate": 0.5,
+          "full_paper_rate": 0.5,
+          "coverage_rate": 1.0,
+          "scored_questions": 2,
+          "unscored_questions": 0,
+          "omitted_question_rows": 0
+        },
+        {
+          "student_id": "S03",
+          "record_status": "partial",
+          "earned_score": 4.0,
+          "scored_max_score": 6.0,
+          "scored_part_rate": 0.666667,
+          "full_paper_rate": null,
+          "coverage_rate": 0.6,
+          "scored_questions": 1,
+          "unscored_questions": 1,
+          "omitted_question_rows": 0
+        },
+        {
+          "student_id": "S04",
+          "record_status": "unscored",
+          "earned_score": null,
+          "scored_max_score": 0.0,
+          "scored_part_rate": null,
+          "full_paper_rate": null,
+          "coverage_rate": 0.0,
+          "scored_questions": 0,
+          "unscored_questions": 2,
+          "omitted_question_rows": 0
+        }
+      ]
+    }
+  ],
+  "comparisons": {
+    "alignment_declared_by_caller": false,
+    "raw_total_scores_comparable": false,
+    "ordering": "exam_id_lexicographic",
+    "knowledge_points": []
+  },
+  "limitations": [
+    "可见学生和题目集合来自 CSV；完全没有数据行的学生或题目无法统计。",
+    "空分或缺行都是未评分记录，不能判断缺考，也不以零分补齐。",
+    "知识点得分率按有效评分满分加权；不同缺失比例可能改变可比性。",
+    "整卷统计仅包含该卷全部可见题目都有评分的学生；部分记录另列。",
+    "得分与失分率不能证明错因、学习能力或态度。",
+    "各卷按 exam_id 字典序排列，顺序不自动代表日期。",
+    "跨卷原始总分不直接比较；相同满分或百分制转换不能证明难度等值。",
+    "未声明范围、评分和参测条件对齐，未生成跨卷知识点差值。"
+  ]
+}

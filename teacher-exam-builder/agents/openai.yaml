@@ -1,0 +1,4 @@
+interface:
+  display_name: "原创试卷"
+  short_description: "按教学范围生成原创试题、答案、分步评分与可核算覆盖矩阵"
+  default_prompt: "使用 $teacher-exam-builder 编写七年级一元一次方程 20 分测验，并交付学生卷、答案评分和覆盖表。"
